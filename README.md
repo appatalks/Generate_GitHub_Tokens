@@ -6,6 +6,7 @@ This repository contains scripts useful for generating various types of GitHub A
 - ghu for GitHub [user-to-server tokens](https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/about-authentication-with-a-github-app)
 - ghs for GitHub [server-to-server tokens](https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/about-authentication-with-a-github-app)
 - ghr for GitHub [refresh tokens](https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/refreshing-user-access-tokens)
+- gho for GitHub [oAuth App Token](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authenticating-to-the-rest-api-with-an-oauth-app)
 
 Usage Instructions and associated Documentation located within.
 
