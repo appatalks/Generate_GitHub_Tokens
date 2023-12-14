@@ -1,6 +1,6 @@
 # NOTE: User must first authorize App and grab "code=<CODE_STRING>" from redirect URL.
 # https://github.com/login/oauth/authorize?client_id=<APP_CLIENT_ID>
-# Time Limit a minute or so
+# Time Limit a few minutes
 
 # Generates a ghu_* User-to-Server Token.
 # Time Limit 8 Hours
