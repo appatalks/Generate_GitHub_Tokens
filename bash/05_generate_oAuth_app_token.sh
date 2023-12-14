@@ -1,7 +1,7 @@
 # https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authenticating-to-the-rest-api-with-an-oauth-app
 # https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps
 
-# 1. Create the app at the org grabbing the ID and Secret
+# 1. Create oAuth App grabbing the ID and Secret
 # 2. Run the script, interactively choose what scopes you want
 # 3. copy the code=<string>, paste the code string, grab gho_*
 # 4. Profit
