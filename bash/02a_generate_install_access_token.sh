@@ -1,12 +1,12 @@
 # Generates a ghs_* Token. GitHub server-to-server tokens.
 # https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/generating-an-installation-access-token-for-a-github-app
 # Usage:
-# bash run.sh <APP_ID> <JWT>
+# bash run.sh <install_ID> <JWT>
 # Time Limit 1 Hour
 
 #!/usr/bin/env bash
 
-app_id=$1
+install_id=$1
 jwt=$2
 
 curl --request POST \
